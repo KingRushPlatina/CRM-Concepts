@@ -1,6 +1,6 @@
 # Goal: Develop a comprehensive CRM that encompasses all typical CRM system concepts.
 
-In this project, we aim to create a CRM solution that integrates all essential functionalities and features commonly associated with CRM systems. To achieve this goal, we have several phases with additional detailed goals:
+In this project, our goal is to create a CRM solution that not only integrates all essential functionalities commonly found in CRM systems but also incorporates additional features to enhance user experience and productivity. We aim to follow a modern architecture approach, utilizing microservices and dependency injection, to ensure scalability, maintainability, and flexibility in our CRM system. We have structured our development process into several phases with detailed goals to achieve this comprehensive CRM solution.
 
 ## Phase 1: Backend Development
 
